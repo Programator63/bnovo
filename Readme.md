@@ -114,6 +114,8 @@ The microservice will allow you to create, receive, modify and delete guests.
 ```
 </details>
 
+----
+
 #### Create Guest
 
 ```
@@ -147,6 +149,7 @@ The microservice will allow you to create, receive, modify and delete guests.
 ```
 </details>
 
+----
 
 #### Delete Guest
 
