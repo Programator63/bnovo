@@ -13,7 +13,7 @@ The microservice will allow you to create, receive, modify and delete guests.
 
 
 - Copy project in folder
-- Use the command ```docker-compose buil```
+- Use the command ```docker-compose build```
 - Then use the command ```cd src``` and command ```cp .env.example .env```
 - configure the .env file
 - now use the command ```php artisan migrate```
