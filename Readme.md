@@ -22,7 +22,7 @@ The microservice will allow you to create, receive, modify and delete guests.
 
 #### Get all Guests
 
-```http
+```
   GET /api/guests
 ```
 
@@ -59,7 +59,7 @@ The microservice will allow you to create, receive, modify and delete guests.
 
 #### Get Guest
 
-```http
+```
   GET /api/guests/${id}
 ```
 
@@ -87,7 +87,7 @@ The microservice will allow you to create, receive, modify and delete guests.
 
 #### Create Guest
 
-```http
+```
   POST /api/gusts
 ```
 
@@ -116,7 +116,7 @@ The microservice will allow you to create, receive, modify and delete guests.
 
 #### Create Guest
 
-```http
+```
   PUT /api/gusts/${id}
 ```
 
@@ -150,7 +150,7 @@ The microservice will allow you to create, receive, modify and delete guests.
 
 #### Delete Guest
 
-```http
+```
   DELETE /api/gusts/${id}
 ```
 
